@@ -1,0 +1,13 @@
+.overlayImg{
+background-image: url("../../Asstes/banner-overlay/Rectangle\ 15.svg");
+height: 590px;
+width: 100%;
+}
+.mapOverlay{
+    background-image: url("../../Asstes/Map/map.png");
+    }
+    @media only screen and (max-width: 458px) {
+        .bannerImg{
+          display: none;
+        }
+      }
